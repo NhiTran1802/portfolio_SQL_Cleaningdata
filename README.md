@@ -1,5 +1,5 @@
-About Dataset:
-
+**About Dataset:
+**
 This is home value data for the hot Nashville market with more than 56,000 rows altogether.
 
 In this project, I use SQL to clean up data. The task involves handling data types, missing data handling, pulling a specified number of characters for each row in a specified column, replacing data, removing duplicates, etc.
